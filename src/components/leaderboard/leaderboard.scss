@@ -1,0 +1,45 @@
+.leaderboard-container {
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333;
+    }
+  
+    .error-message {
+      color: red;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+  
+    .leaderboard-table {
+      width: 100%;
+      border-collapse: collapse;
+  
+      th, td {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: center;
+      }
+  
+      th {
+        background-color: #f2f2f2;
+        color: #333;
+      }
+  
+      tr:nth-child(even) {
+        background-color: #f9f9f9;
+      }
+  
+      tr:hover {
+        background-color: #e2e2e2;
+      }
+    }
+  }
+  
