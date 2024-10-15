@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pi-Reaction-Test/static/css/main.2cda2c8f.css",
+    "main.js": "/Pi-Reaction-Test/static/js/main.d4a7e39f.js",
+    "static/js/453.f537cbf7.chunk.js": "/Pi-Reaction-Test/static/js/453.f537cbf7.chunk.js",
+    "static/media/Amz-logo.png": "/Pi-Reaction-Test/static/media/Amz-logo.661660a89ebbd3d199f0.png",
+    "index.html": "/Pi-Reaction-Test/index.html",
+    "main.2cda2c8f.css.map": "/Pi-Reaction-Test/static/css/main.2cda2c8f.css.map",
+    "main.d4a7e39f.js.map": "/Pi-Reaction-Test/static/js/main.d4a7e39f.js.map",
+    "453.f537cbf7.chunk.js.map": "/Pi-Reaction-Test/static/js/453.f537cbf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cda2c8f.css",
+    "static/js/main.d4a7e39f.js"
+  ]
+}
